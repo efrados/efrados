@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EfrainArreche
-- 👀 I’m interested in Ruby and web Development in general
-- 🌱 I’m currently learning some courses in udemy about becoming more professional at coding
-- 💞️ I’m looking to collaborate on RoR projects
+- 👋 Hi, I’m Efrain Arreche
+- 💞️ I have been in love with ruby on rails for more than 10 years
 - 📫 efrados@gmail.com
 
 <!---
